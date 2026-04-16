@@ -1,5 +1,5 @@
 # ReviewBibit
-Analisis Sentimen Ulasan Pengguna Aplikasi Bibit Menggunakan IndoBERT  
+Analisis Sentimen Ulasan Pengguna Aplikasi Bibit Menggunakan Pendekatan IndoBERT dan TF-IDF, Farah Kamila, Program Studi Statistika, Universitas Indonesia.
 
 ## Text Analytics - Sentiment Analysis Bibit App
 
